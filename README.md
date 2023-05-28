@@ -4,7 +4,7 @@
 
 ## Integrantes del equipo
 
-[Nombres, apellidos, y usuario GitHub de los integrantes del equipo.]
+Marcos Pintado(Pintadoc), Mario Marchan(mariomarchan), Alvaro Macarro(Alvaro-mv-20), Georgi Nikolov
 
 ## Objetivos del trabajo
 
