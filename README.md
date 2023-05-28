@@ -1,6 +1,6 @@
 # [Título del trabajo]
 
-[Descripción breve del proyecto a realizar (2-3 frases).]
+El trabajo consiste en crear un menu que permita al usuario trabajar con ciertos datos dados a su gusta, el ususario podra realizar varias funciones como ver los datos que desee, también se le mostrarán algunos cálculos estadísticos y podrá cargar nuevos datos u ordenar los que ya tiene.
 
 ## Integrantes del equipo
 
@@ -8,4 +8,8 @@ Marcos Pintado(Pintadoc), Mario Marchan(mariomarchan), Alvaro Macarro(Alvaro-mv-
 
 ## Objetivos del trabajo
 
-[Lista de los objetivos que se persiguen con el trabajo propuesto.]
+-Crear un menu en el que el usuario pueda elegir la opcion a realizar
+-Conseguir nuevos datos interesantes para el usuario a partir de los datos iniciales
+-Practicar el uso de las funciones
+-Aprender a trabajar con ficheros 
+-Trabajar con estructuras
