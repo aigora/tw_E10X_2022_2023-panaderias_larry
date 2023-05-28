@@ -8,8 +8,8 @@ Marcos Pintado(Pintadoc), Mario Marchan(mariomarchan), Alvaro Macarro(Alvaro-mv-
 
 ## Objetivos del trabajo
 
--Crear un menu en el que el usuario pueda elegir la opcion a realizar
--Conseguir nuevos datos interesantes para el usuario a partir de los datos iniciales
--Practicar el uso de las funciones
--Aprender a trabajar con ficheros 
--Trabajar con estructuras
+-Crear un menu en el que el usuario pueda elegir la opcion a realizar\n
+-Conseguir nuevos datos interesantes para el usuario a partir de los datos iniciales\n
+-Practicar el uso de las funciones\n
+-Aprender a trabajar con ficheros\n
+-Trabajar con estructuras\n
